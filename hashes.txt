@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Drifting Together
+
+This log tracks the cryptographic history and versioning for the song **Drifting Together** (drifting-together).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T04:05:18.928026 | `v1` | `c0f4ff1c7a88a8d104660f6c13bb6af8d593d2a94b8b4f1a23b96e28d9952135` | `c7e4c50de7652db19d54e877ebcc28db15e24bd81a49b407d86e3f44121f7018` | `2026-06-03_drifting-together-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
