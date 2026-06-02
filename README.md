@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/drifting-together/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Drifting Together](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drifting-together/) |
+| **Get License** | [Get a Licensing Quote for Drifting Together](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drifting-together/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight air is pulling you to me
+> I feel the heat beneath the canopy
+> We’re leaving all the shadows on the shore
+> I’ve never wanted anybody more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
